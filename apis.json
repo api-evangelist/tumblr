@@ -1,0 +1,89 @@
+{
+    "name": "Tumblr",
+    "description": "Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. It's where your interests connect you with your people.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/265-tumblr.jpg",
+    "tags": [
+        "blogging",
+        "communications",
+        "content",
+        "general data",
+        "have api",
+        "historical data api",
+        "pedestal",
+        "relative data",
+        "service api",
+        "social",
+        "streams"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tumblr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Tumblr",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/265-tumblr.jpg",
+            "humanURL": "https:\/\/www.tumblr.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/tumblr.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tumblr-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API.json - Authoritative",
+            "url": "http:\/\/apis.io\/apisdef\/legacy\/tumblr.json"
+        },
+        {
+            "type": "Base",
+            "url": "http:\/\/api.tumblr.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/staff.tumblr.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/staff.tumblr.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/tumblr"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/tumblr"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.tumblr.com\/docs\/en\/api\/v2"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/tumblr"
+        },
+        {
+            "type": "Transparency Report",
+            "url": "https:\/\/www.tumblr.com\/transparency"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/tumblr"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.tumblr.com\/"
+        }
+    ]
+}
