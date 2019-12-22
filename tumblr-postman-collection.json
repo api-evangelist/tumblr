@@ -1,5 +1,5 @@
 {
-    "id": "ea49e907d4693dcbf99dbc838c4a5cb6",
+    "id": "e59a13150942b05f6d1d525fa79d2315",
     "name": "Tumblr",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "7ea1de830557b24406e198ee215a1111",
+            "id": "b3af0f9df99407ec489a9fc41fbbf603",
             "name": "Get Blog Base Hostname Info",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/info",
             "description": "This method returns general information about the blog, such as the title, number of posts, and other high-level data.",
@@ -37,11 +37,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "1eb7d319189f7646c8112acae7814cfe",
+            "id": "27ee5e236422370214e96ac8e85c7f71",
             "name": "Get Blog Base Hostname Avatar Size",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/avatar\/{size}",
             "description": "Retrieves a blog's avatar in one of 9 different sizes.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "719321a2db4db58ebc33d263049cc177",
+            "id": "f6c49643b23eb3f3410628b71f0a5692",
             "name": "Get Blog Base Hostname Followers",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/followers",
             "description": "Retrieves a blog's followers.",
@@ -120,11 +120,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "2030a8830f9bbed403e0c02763c5ab19",
+            "id": "c6456cb4937280662ccf957f25653fbd",
             "name": "Get Blog Base Hostname Adds Type",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/posts\/{type}",
             "description": "Retrieves published posts.",
@@ -207,11 +207,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "c1893bc9caa4267fef492b6f4fe4095e",
+            "id": "8bf0a106683750c7d3361405d3760e23",
             "name": "Get Blog Base Hostname Adds Queue",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/posts\/queue",
             "description": "Retrieves queued posts.",
@@ -238,11 +238,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "fbaa5fecaf211e234b3725c1c6a1ee46",
+            "id": "11e519687e4c698425c87afb65ab43ab",
             "name": "Get Blog Base Hostname Adds Draft",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/posts\/draft",
             "description": "Retrieves draft posts.",
@@ -269,11 +269,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "05697550006b6395a469b65fd740ecf6",
+            "id": "adc80b2932bafdedd512dfe7812723de",
             "name": "Get Blog Base Hostname Adds Submission",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/posts\/submission",
             "description": "Retrieves submission posts.",
@@ -300,11 +300,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "681783a688d0919a04f1cc3f9b94aed4",
+            "id": "63c039fb7e2abf9caf366b6e9a27cad2",
             "name": "Add Blog Base Hostname Add",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/post",
             "description": "Creates a new video blog post.",
@@ -387,11 +387,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "4649eef257c51db9270c329ee98ac4c1",
+            "id": "2229f2d99e79e0ac2ed80eb33b1c5cbe",
             "name": "Add Blog Base Hostname Add Edit",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/post\/edit",
             "description": "Edits a blog post.",
@@ -460,11 +460,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "87258f4b24eefaefa01654f48d634f57",
+            "id": "f01af0fac73bc891db0436cb54ce5edb",
             "name": "Add Blog Base Hostname Add Reblog",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/post\/reblog",
             "description": "Reblogs a post.",
@@ -547,11 +547,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "d37a97cb6dad1d7b3830116e6fadecf4",
+            "id": "93fde9f3206c6b8e861bd19c63f3ee77",
             "name": "Add Blog Base Hostname Add Delete",
             "url": "httpsapi.tumblr.com\/v2\/\/blog\/{base-hostname}\/post\/delete",
             "description": "Deletes a post.",
@@ -585,11 +585,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "c62bcac39139d6071f17cbc5fe1a19de",
+            "id": "e8427aed7f75f9d21bbc592d98db0ede",
             "name": "Get User Dashboard",
             "url": "httpsapi.tumblr.com\/v2\/\/user\/dashboard",
             "description": "Use this method to retrieve the dashboard that matches the OAuth credentials submitted with the request.",
@@ -637,11 +637,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "afb71682ff4e5a7aec78a7082fc94579",
+            "id": "0c083414cb397cde7060bf977b78db69",
             "name": "Get User Likes",
             "url": "httpsapi.tumblr.com\/v2\/\/user\/likes",
             "description": "Use this method to retrieve the liked posts that match the OAuth credentials submitted with the request.",
@@ -675,11 +675,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "e0a1608d848f6ca5890ea8c01aa1d2d0",
+            "id": "3ed27a2dc8cda1ab72510aa3e91976ae",
             "name": "Get User Following",
             "url": "httpsapi.tumblr.com\/v2\/\/user\/following",
             "description": "Use this method to retrieve the blogs followed by the user whose OAuth credentials are submitted with the request.",
@@ -713,11 +713,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "d25eae99739690f4282c225e43c37390",
+            "id": "c884e3065d438d9d65781ee34d95beb3",
             "name": "Add User Follow",
             "url": "httpsapi.tumblr.com\/v2\/\/user\/follow",
             "description": "Follow a blog.",
@@ -744,11 +744,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         },
         {
-            "id": "79ad695fdecddcf95cf685b0dfa3fdfa",
+            "id": "0ddc68197443faba2d0e58978199b720",
             "name": "Add User Unfollow",
             "url": "httpsapi.tumblr.com\/v2\/\/user\/unfollow",
             "description": "Unfollow a blog.",
@@ -775,7 +775,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ea49e907d4693dcbf99dbc838c4a5cb6",
+            "collectionId": "e59a13150942b05f6d1d525fa79d2315",
             "rawModeData": ""
         }
     ]
