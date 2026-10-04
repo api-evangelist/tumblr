@@ -39,7 +39,6 @@ apis:
   - name: Tumblr
     description: "Read and write Tumblr Data"
     humanURL: https://www.tumblr.com/docs/en/api/v2
-    baseURL: https://www.tumblr.com/docs/en/api/v2
     tags:
       - Social
     properties:
